@@ -1,0 +1,16 @@
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\New folder (2)\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\New folder (2)\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\New folder (2)\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\New folder (2)\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\Projects\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Projects\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Projects\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Projects\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\GIT\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\GIT\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\GIT\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\GIT\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

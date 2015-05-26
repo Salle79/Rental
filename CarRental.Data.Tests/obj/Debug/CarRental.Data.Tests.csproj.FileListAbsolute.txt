@@ -1,0 +1,184 @@
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll.config
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Contract.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Moq.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Common.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Contract.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Moq.xml
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.xml
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Common.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll.config
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Contract.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\Core.Common.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\EntityFramework.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\Moq.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Data.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Business.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\FluentValidation.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Common.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Contract.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\Core.Common.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\EntityFramework.xml
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\Moq.xml
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Data.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Business.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\FluentValidation.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\FluentValidation.xml
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\CarRental.Common.pdb
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\da\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\de\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\es\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\fi\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\fr\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\it\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\ko\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\nl\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\pl\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\pt\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\ru\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\sv\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\bin\Debug\tr\FluentValidation.resources.dll
+C:\New folder (2)\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
+C:\New folder (2)\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
+C:\New folder (2)\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll.config
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Contract.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Moq.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Common.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Contract.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.xml
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\Moq.xml
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.xml
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Common.pdb
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\da\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\de\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\es\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\fi\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\fr\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\it\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\ko\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\nl\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\pl\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\pt\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\ru\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\sv\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\bin\Debug\tr\FluentValidation.resources.dll
+C:\Projects\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
+C:\Projects\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll.config
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Contract.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\Moq.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Common.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Contract.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\Core.Common.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.xml
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\Moq.xml
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\FluentValidation.xml
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Common.pdb
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\da\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\de\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\es\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\fi\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\fr\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\it\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\ko\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\nl\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\pl\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\pt\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\ru\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\sv\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\bin\Debug\tr\FluentValidation.resources.dll
+C:\GIT\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
+C:\GIT\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
+C:\GIT\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb

@@ -1,0 +1,16 @@
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb
+C:\New folder (2)\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\New folder (2)\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\New folder (2)\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\New folder (2)\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb
+C:\Projects\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\Projects\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Projects\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\Projects\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb
+C:\GIT\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\GIT\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\GIT\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\GIT\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb
