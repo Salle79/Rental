@@ -14,3 +14,7 @@ C:\GIT\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
 C:\GIT\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
 C:\GIT\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
 C:\GIT\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb

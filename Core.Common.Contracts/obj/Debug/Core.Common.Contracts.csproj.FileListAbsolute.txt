@@ -14,3 +14,7 @@ C:\GIT\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
 C:\GIT\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
 C:\GIT\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
 C:\GIT\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
