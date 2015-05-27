@@ -5,7 +5,7 @@ using System.Runtime.Serialization;
 
 namespace Core.Common.Core
 {
-    //test
+    
     [DataContract]
     public abstract class EntityBase : IExtensibleDataObject
     {
