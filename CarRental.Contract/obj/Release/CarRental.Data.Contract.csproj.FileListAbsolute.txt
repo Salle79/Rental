@@ -27,32 +27,3 @@ C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Contrac
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Contract\obj\Release\CarRental.Data.Contract.csprojResolveAssemblyReference.cache
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Contract\obj\Release\CarRental.Contract.dll
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Contract\obj\Release\CarRental.Contract.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\CarRental.Contract.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\CarRental.Contract.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\CarRental.Business.Entities.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\Core.Common.Contracts.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\Core.Common.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\EntityFramework.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\FluentValidation.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\CarRental.Business.Entities.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\Core.Common.Contracts.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\Core.Common.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\EntityFramework.xml
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\FluentValidation.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\FluentValidation.xml
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\da\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\de\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\es\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\fi\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\fr\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\it\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\ko\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\nl\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\pl\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\pt\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\ru\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\sv\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\bin\Release\tr\FluentValidation.resources.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\obj\Release\CarRental.Data.Contract.csprojResolveAssemblyReference.cache
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\obj\Release\CarRental.Contract.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Contract\obj\Release\CarRental.Contract.pdb
