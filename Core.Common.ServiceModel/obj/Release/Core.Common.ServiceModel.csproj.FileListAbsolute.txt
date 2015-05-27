@@ -5,5 +5,6 @@ C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.Servi
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.ServiceModel\obj\Release\Core.Common.ServiceModel.pdb
 C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\bin\Release\Core.Common.ServiceModel.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\bin\Release\Core.Common.ServiceModel.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\obj\Release\Core.Common.ServiceModel.csprojResolveAssemblyReference.cache
 C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\obj\Release\Core.Common.ServiceModel.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common.ServiceModel\obj\Release\Core.Common.ServiceModel.pdb
