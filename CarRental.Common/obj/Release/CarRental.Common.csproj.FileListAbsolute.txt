@@ -3,8 +3,3 @@ C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Common\
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Common\obj\Release\CarRental.Common.csprojResolveAssemblyReference.cache
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Common\obj\Release\CarRental.Common.dll
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\CarRental.Common\obj\Release\CarRental.Common.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\bin\Release\CarRental.Common.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\bin\Release\CarRental.Common.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\obj\Release\CarRental.Common.csprojResolveAssemblyReference.cache
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\obj\Release\CarRental.Common.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\obj\Release\CarRental.Common.pdb
