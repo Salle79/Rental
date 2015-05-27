@@ -6,6 +6,7 @@ using Core.Common.Data;
 using System.Data;
 using System.Data.Entity;
 
+
 namespace CarRental.Data
 {
     public abstract class DataRepositoryBase<T> : DataRepositoryBase<T, CarRentalContext>

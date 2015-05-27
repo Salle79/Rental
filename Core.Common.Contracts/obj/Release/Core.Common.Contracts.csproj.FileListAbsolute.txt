@@ -5,5 +5,6 @@ C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.Contr
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\obj\Release\Core.Common.Contracts.pdb
 C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\bin\Release\Core.Common.Contracts.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\bin\Release\Core.Common.Contracts.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\obj\Release\Core.Common.Contracts.csprojResolveAssemblyReference.cache
 C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\obj\Release\Core.Common.Contracts.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common.Contracts\obj\Release\Core.Common.Contracts.pdb
