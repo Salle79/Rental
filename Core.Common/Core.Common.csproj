@@ -54,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\Class1.cs" />
     <Compile Include="Core\EntityBase.cs" />
     <Compile Include="Core\NotificationObject.cs" />
     <Compile Include="Core\NotNavigableAttribute.cs" />
