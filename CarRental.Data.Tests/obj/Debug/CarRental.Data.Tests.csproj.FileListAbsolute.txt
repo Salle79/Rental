@@ -186,6 +186,7 @@ C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Data
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.dll
+C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Business.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Contract.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.dll
@@ -194,12 +195,12 @@ C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\EntityFramewor
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\Moq.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Data.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Business.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\FluentValidation.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Common.dll
+C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\FluentValidation.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Boostraper.pdb
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Business.Entities.pdb
+C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Business.pdb
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Contract.pdb
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\Core.Common.Contracts.pdb
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\Core.Common.pdb
@@ -207,11 +208,10 @@ C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\EntityFramewor
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\Moq.xml
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Data.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Business.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\FluentValidation.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\FluentValidation.xml
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Business.Common.pdb
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\CarRental.Common.pdb
+C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\FluentValidation.pdb
+C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\FluentValidation.xml
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\da\FluentValidation.resources.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\de\FluentValidation.resources.dll
 C:\Users\Salle\Documents\RentalGIT\CarRental.Data.Tests\bin\Debug\es\FluentValidation.resources.dll

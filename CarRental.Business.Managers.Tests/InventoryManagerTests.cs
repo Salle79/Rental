@@ -115,13 +115,6 @@ namespace CarRental.Business.Managers.Tests
             Assert.IsTrue (carList.CompareCarCollection (rentedCarsList),"Method failure:Fetch List of Cars from database failed");
         }
 
-        [TestMethod]
-        [TestCategory("RequresDeployment")]
-        public void GetAvailableCars_Integration_test()
-        {
-            InventoryManager inventoryManager = new InventoryManager ();
-            Car [] availableCars = inventoryManager.GetAvailableCars (new DateTime (2015, 05, 1), new DateTime (2015, 04, 6));
-            Assert.IsNotNull (availableCars, "IntegrationTest failure: Fetching car info from database failed");
-        }
+        
     }
 }

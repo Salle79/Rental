@@ -70,6 +70,10 @@
       <Project>{68f6783f-e557-42a2-9d9c-35398e87dba4}</Project>
       <Name>Core.Common.Contracts</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Core.Common.ServiceModel\Core.Common.ServiceModel.csproj">
+      <Project>{171fb9b4-0089-46c4-a9db-f44f6ecbed9c}</Project>
+      <Name>Core.Common.ServiceModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

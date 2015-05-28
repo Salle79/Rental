@@ -26,3 +26,31 @@ C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common\bin\R
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common\obj\Release\Core.Common.csprojResolveAssemblyReference.cache
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common\obj\Release\Core.Common.dll
 C:\Users\Salle\documents\visual studio 2013\Projects\CarRental\Core.Common\obj\Release\Core.Common.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\Core.Common.dll.config
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\Core.Common.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\Core.Common.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\Core.Common.Contracts.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\EntityFramework.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\FluentValidation.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\Core.Common.Contracts.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\EntityFramework.xml
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\FluentValidation.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\FluentValidation.xml
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\da\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\de\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\es\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\fi\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\fr\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\it\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\ko\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\nl\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\pl\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\pt\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\ru\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\sv\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Release\tr\FluentValidation.resources.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\obj\Release\Core.Common.csprojResolveAssemblyReference.cache
+C:\Users\Salle\Documents\RentalGIT\Core.Common\obj\Release\Core.Common.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\obj\Release\Core.Common.pdb

@@ -114,10 +114,12 @@ C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\Core.Common.dll.config
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\Core.Common.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\Core.Common.pdb
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\Core.Common.ServiceModel.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\EntityFramework.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\FluentValidation.dll
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\Core.Common.ServiceModel.pdb
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\EntityFramework.xml
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Salle\Documents\RentalGIT\Core.Common\bin\Debug\FluentValidation.pdb
