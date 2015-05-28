@@ -116,7 +116,7 @@ namespace CarRental.Business.Managers.Tests
         }
 
         [TestMethod]
-        
+        [TestCategory("RequresDeployment")]
         public void GetAvailableCars_Integration_test()
         {
             InventoryManager inventoryManager = new InventoryManager ();
