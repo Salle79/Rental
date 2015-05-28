@@ -1,7 +1,0 @@
-C:\Users\Salle\Documents\RentalGIT\CarRental.IntegrationTest.Tests\obj\Release\CarRental.IntegrationTest.Tests.csprojResolveAssemblyReference.cache
-C:\Users\Salle\Documents\RentalGIT\CarRental.IntegrationTest.Tests\bin\Release\CarRental.IntegrationTest.Tests.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.IntegrationTest.Tests\bin\Release\CarRental.IntegrationTest.Tests.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.IntegrationTest.Tests\bin\Release\Moq.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.IntegrationTest.Tests\bin\Release\Moq.xml
-C:\Users\Salle\Documents\RentalGIT\CarRental.IntegrationTest.Tests\obj\Release\CarRental.IntegrationTest.Tests.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.IntegrationTest.Tests\obj\Release\CarRental.IntegrationTest.Tests.pdb
