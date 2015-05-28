@@ -116,7 +116,7 @@ namespace CarRental.Business.Managers.Tests
         }
 
         [TestMethod]
-        [Timeout(5000)]
+        
         public void GetAvailableCars_Integration_test()
         {
             InventoryManager inventoryManager = new InventoryManager ();
