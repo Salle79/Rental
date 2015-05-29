@@ -14,8 +14,3 @@ C:\GIT\CarRental\CarRental.Common\bin\Debug\CarRental.Common.dll
 C:\GIT\CarRental\CarRental.Common\bin\Debug\CarRental.Common.pdb
 C:\GIT\CarRental\CarRental.Common\obj\Debug\CarRental.Common.dll
 C:\GIT\CarRental\CarRental.Common\obj\Debug\CarRental.Common.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\bin\Debug\CarRental.Common.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\bin\Debug\CarRental.Common.pdb
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\obj\Debug\CarRental.Common.csprojResolveAssemblyReference.cache
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\obj\Debug\CarRental.Common.dll
-C:\Users\Salle\Documents\RentalGIT\CarRental.Common\obj\Debug\CarRental.Common.pdb
