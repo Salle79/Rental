@@ -190,3 +190,11 @@ C:\GIT\CarRental\CarRental.ServiceHost.Console\bin\Debug\tr\FluentValidation.res
 C:\GIT\CarRental\CarRental.ServiceHost.Console\obj\Debug\CarRental.ServiceHost.Console.csprojResolveAssemblyReference.cache
 C:\GIT\CarRental\CarRental.ServiceHost.Console\obj\Debug\CarRental.ServiceHost.Console.exe
 C:\GIT\CarRental\CarRental.ServiceHost.Console\obj\Debug\CarRental.ServiceHost.Console.pdb
+C:\Users\Salle\Documents\RentalGIT\CarRental.ServiceHost.Console\bin\Debug\CarRental.ServiceHost.Console.exe
+C:\Users\Salle\Documents\RentalGIT\CarRental.ServiceHost.Console\bin\Debug\CarRental.Business.Contracts.dll
+C:\Users\Salle\Documents\RentalGIT\CarRental.ServiceHost.Console\bin\Debug\CarRental.Business.Entities.dll
+C:\Users\Salle\Documents\RentalGIT\CarRental.ServiceHost.Console\bin\Debug\CarRental.Business.Manager.dll
+C:\Users\Salle\Documents\RentalGIT\CarRental.ServiceHost.Console\bin\Debug\Core.Common.dll
+C:\Users\Salle\Documents\RentalGIT\CarRental.ServiceHost.Console\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\Salle\Documents\RentalGIT\CarRental.ServiceHost.Console\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Salle\Documents\RentalGIT\CarRental.ServiceHost.Console\bin\Debug\CarRental.Common.dll
