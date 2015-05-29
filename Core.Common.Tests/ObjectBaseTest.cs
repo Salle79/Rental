@@ -25,9 +25,10 @@ namespace Core.Common.Tests
 
             Assert.IsTrue (propertyChanged, "Changing CleanProp should have set the notification flag to true.");
         }
+
         
-        [TestMethod]
-        [Category("Fast")]
+        [TestCategory("Fast"), TestMethod]
+        
         public void test_dirty_set()
         {
             TestClass objTest = new TestClass ();
